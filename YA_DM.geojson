@@ -1,0 +1,237 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3888,
+                    36.44540000000001
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "MNNAME": "阎家滩",
+                "MN": "A610600_2005",
+                "AREANAME": "延安市",
+                "RIVERNAME": "延河",
+                "RESPONSIBL": "延安环保局",
+                "LNG": 110.3888,
+                "LAT": 36.4454,
+                "UPDOWNSTRE": "蒙-甘",
+                "PROPERTYEX": "入河口",
+                "ADDRESS": "",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 0,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "省入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.58609999999999,
+                    36.651099999999985
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "MNNAME": "朱家沟",
+                "MN": "A610600_2006",
+                "AREANAME": "延安市",
+                "RIVERNAME": "延河",
+                "RESPONSIBL": "延安环保局",
+                "LNG": 109.5861,
+                "LAT": 36.6511,
+                "UPDOWNSTRE": "蒙-甘",
+                "PROPERTYEX": "",
+                "ADDRESS": "",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 0,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "省入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.27640000000002,
+                    36.79109999999997
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "MNNAME": "王家河",
+                "MN": "A610600_2003",
+                "AREANAME": "延安市",
+                "RIVERNAME": "清涧河",
+                "RESPONSIBL": "延安环保局",
+                "LNG": 110.2764,
+                "LAT": 36.7911,
+                "UPDOWNSTRE": "蒙-甘",
+                "PROPERTYEX": "入河口",
+                "ADDRESS": "",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 3,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "其它入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.44733783700002,
+                    36.06593080800002
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "MNNAME": "昝家山",
+                "MN": "A610600_2004",
+                "AREANAME": "延安市",
+                "RIVERNAME": "仕望河",
+                "RESPONSIBL": "延安环保局",
+                "LNG": 107.4535,
+                "LAT": 36.0695,
+                "UPDOWNSTRE": "蒙-甘",
+                "PROPERTYEX": "入河口",
+                "ADDRESS": "",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 3,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "其它入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.44559299999997,
+                    35.523900000000026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "MNNAME": "田庄镇南城村",
+                "MN": "A610600_2002",
+                "AREANAME": "延安市",
+                "RIVERNAME": "北洛河",
+                "RESPONSIBL": "延安市环保局",
+                "LNG": 109.445593,
+                "LAT": 35.5239,
+                "UPDOWNSTRE": "蒙-陕",
+                "PROPERTYEX": "",
+                "ADDRESS": "陕西省延安市黄陵县田庄镇南城村村",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 0,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "省入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.09190000000001,
+                    36.89789999999999
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "MNNAME": "水库出水口",
+                "MN": "A610600_0001",
+                "AREANAME": "延安市",
+                "RIVERNAME": "王瑶水库",
+                "RESPONSIBL": "延安环保局",
+                "LNG": 109.0919,
+                "LAT": 36.8979,
+                "UPDOWNSTRE": "蒙-陕",
+                "PROPERTYEX": "",
+                "ADDRESS": "",
+                "DEV_TYPE": "国考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 0,
+                "INOROUT": 1,
+                "DEV_STATUS": "正常",
+                "TYPE": "省入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.47629999999998,
+                    36.40300000000002
+                ]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "MNNAME": "延安延河水站",
+                "MN": "ZS6106210001",
+                "AREANAME": "延安市",
+                "RIVERNAME": "延河",
+                "RESPONSIBL": "环保公司",
+                "LNG": 110.4763,
+                "LAT": 36.403,
+                "UPDOWNSTRE": "",
+                "PROPERTYEX": "入黄河（趋势断面）",
+                "ADDRESS": "延长县张家滩镇老虎沟村",
+                "DEV_TYPE": "省考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 3,
+                "INOROUT": 1,
+                "DEV_STATUS": "停站",
+                "TYPE": "其它入"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.35359999999997,
+                    36.84219999999999
+                ]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "MNNAME": "延安秀延河水站",
+                "MN": "ZS6106220001",
+                "AREANAME": "延安市",
+                "RIVERNAME": "秀延河",
+                "RESPONSIBL": "环保公司",
+                "LNG": 110.3536,
+                "LAT": 36.8422,
+                "UPDOWNSTRE": "",
+                "PROPERTYEX": "入黄河（趋势断面）",
+                "ADDRESS": "延川县马家河\n延川县马家河乡中心",
+                "DEV_TYPE": "省考",
+                "AREACODE": 610600,
+                "DEV_LEVEL": 3,
+                "INOROUT": 1,
+                "DEV_STATUS": "停站",
+                "TYPE": "其它入"
+            }
+        }
+    ]
+}
